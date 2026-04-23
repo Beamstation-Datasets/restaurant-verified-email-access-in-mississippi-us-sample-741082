@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Mississippi, US
 
-> Free BeamStation sample export with 67 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `741082` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 678 records |
-| Free sample size | 67 records (9.88%) |
-| Last export | 2026-04-15T04:09:26.303025+00:00 |
+| Full dataset size | 512 records |
+| Free sample size | 51 records (9.96%) |
+| Last export | 2026-04-22T09:39:46.795941+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-mississippi-us-sample-741082/releases/download/sample-latest/beamstation_741082_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
