@@ -1,12 +1,12 @@
 {
-  "export_job_id": "681c5658-2743-46dc-810d-bafa9310e2a4",
+  "export_job_id": "d21f3fc7-d9fe-47a7-b468-d30ea45574a7",
   "id_short": 741082,
-  "published_at": "2026-04-18T19:49:20Z",
+  "published_at": "2026-04-23T07:25:49Z",
   "repo_name": "restaurant-verified-email-access-in-mississippi-us-sample-741082",
   "sample_asset_name": "beamstation_741082_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/741082/beamstation_741082_restaurants-us-ms_SAMPLE_DIST.csv",
-  "sample_records": 67,
-  "sample_sha256": "a05d815f02bce54b32c2ff7c8155940d149af235252950224f4ee662596e623d",
-  "sample_size_bytes": 279374,
-  "total_records": 678
+  "sample_records": 51,
+  "sample_sha256": "be7361d5457adc242b198f89347d8cae92ebfd6f6c0f98dc70b23e4a094c2a1b",
+  "sample_size_bytes": 217916,
+  "total_records": 512
 }
